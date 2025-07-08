@@ -70,3 +70,11 @@ print("Greater than(c>d):", c>d)
 print("Less than(c<d):", c<d)
 print("Greater than or equal to(c>=d):", c>=d)
 print("Less than or equal to(c<=d):", c<=d)
+
+#7. bitwise operators
+10 & 8 #and
+10^8 #xor
+10>>1 #right shift
+10<<1#left shift
+~10 #not
+10|8 #or

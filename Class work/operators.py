@@ -78,3 +78,5 @@ print("Less than or equal to(c<=d):", c<=d)
 10<<1#left shift
 ~10 #not
 10|8 #or
+x=10
+x

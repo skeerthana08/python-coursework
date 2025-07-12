@@ -104,3 +104,9 @@ k=[0,1,2]   #0,[],False," ", are false
 k
 any(k)  #Returns True if at least one element is True in the list.
 all(k)   #Returns True if all elements areTrue in the list.
+
+0 in k  #membership
+
+nl=[[1,2,3],['a','b']]
+n1
+n1.index[1,2,3]
